@@ -150,7 +150,7 @@ curl http://localhost:5000/api/items
 ## ✍️ Author
 
 Built by [Your Name]  
-GitHub: [@your-username](https://github.com/SounakDutta10)
+GitHub: [@SounakDutta10](https://github.com/SounakDutta10)
 
 ---
 
